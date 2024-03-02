@@ -1,0 +1,1 @@
+In this issue, we aim to add an advanced search feature to the homepage so that users can easily find their desired content. To solve this issue, the user should follow these steps:
